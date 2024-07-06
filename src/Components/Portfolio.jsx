@@ -10,37 +10,23 @@
 
 import React from "react";
 
-/**
- * Desk image
- *
- * Below is a sample desk image. Feel free to update this to an image of your choice,
- * updating below imageAltText to string that represents what you see in that image.
- *
- * Need an image? Check out https://unsplash.com to download a photo you
- * freely use on your site.
- */
-import image from "../images/BG3.png";
+import image from "../images/profilephoto.jpeg";
 
 const imageAltText = "Snippet from my Github Account";
 
-/**
- * Project list
- *
- * An array of objects that will be used to display for your project
- * links section. Below is a sample, update to reflect links you'd like to highlight.
- */
+
 const projectList = [
   {
     title: "Learning Management System",
     description:
       "Developed a Learning Management System for a university project. It includes features like course management, user management, and quiz management.",
-    url: "https://github.com/Yashasvi-30/Learning-Management-System-",
+    // url: "https://github.com/Yashasvi-30/Learning-Management-System-",
   },
   {
     title: "Myntra Clone",
     description:
       "Developed a Myntra Clone for a university project. It includes features like product management, user management, and cart management.",
-    url: "https://github.com/Yashasvi-30/MyMyntraClone",
+    // url: "https://github.com/Yashasvi-30/MyMyntraClone",
   },
   {
     title: "Amazon Clone",

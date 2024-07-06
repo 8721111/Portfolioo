@@ -24,7 +24,7 @@ const imageAltText = "Background image";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  " I am a student at University of Petroleum and Energy Studies, Dehradun. I am pursuing B.Tech in Computer Science and Engineering. I am a UI/UX enthusiast and a passionate learner. I am always looking for new opportunities to learn and grow.";
+  " I am a student at Kurushetra University, S.I.E.T ,Nilokheri Haryana. I am pursuing B.Tech in Computer Science and Engineering. I am a Full stack web developer and a passionate learner. I am always looking for new opportunities to learn and grow.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -35,8 +35,8 @@ const skillsList = [
   "User experience",
   "Web Development",
   "Content creation",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Python Developer",
+  
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am a passionate learner and always looking for new opportunities to learn and grow. I am a UI/UX enthusiast and a passionate learner. I am always looking for new opportunities to learn and grow.";
+  "I am a passionate learner and always looking for new opportunities to learn and grow. I am a full stack web developer and a passionate learner. I am always looking for new opportunities to learn and grow.";
 
 const About = () => {
   return (
